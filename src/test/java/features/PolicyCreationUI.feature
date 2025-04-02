@@ -1,6 +1,6 @@
 Feature: Policy Creation via WEB
 
-  @smoke_UI
+  @smoke_UI1
   @policy_UI
   Scenario: Create a policy and validate the success message
     Given I login ReactApp using below credentials
